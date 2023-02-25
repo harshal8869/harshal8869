@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Harshal Shah!</h1>
+<h1 align="center">Hi there 👋, I'm Harshal Shah!</h1>
 <h3 align="center">A coding enthusiast having some knowledge on competitive programming and web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Bm7C.gif">
 
