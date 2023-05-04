@@ -14,7 +14,7 @@
 <a href="https://instagram.com/harshal._shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal._shah" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/harshal_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshal_02" height="30" width="40" /></a>
    <a href="https://leetcode.com/harshal_88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="harshal_88" height="30" width="40" /></a>
-   
+    <a href="https://www.codechef.com/users/harshal_0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshal_0210" height="30" width="40" /></a>
   
 
 </p>
