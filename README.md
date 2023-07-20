@@ -2,9 +2,9 @@
 <h3 align="center">A coding enthusiast having some knowledge on competitive programming and web development.</h3>
 <img align = "right" alt = "Coding" widht = "400" src="https://tse2.mm.bing.net/th?id=OIP.5SFCDaNp6A0KtXGxzTCMCAHaE8&pid=Api&P=0">
 
-- 🔭 I’m currently working on **my problem-solving skills and strive to gain more and more knowledge in field of web dev.**
+- 🔭 I’m currently working on **my problem-solving skills and MERN STACK projects**
 
-- 🌱 I’m currently learning **Backend development .**
+- 🌱 I’m currently learning ** about Frontend - Backend connections .**
 
 - 📫 How to reach me **harshal888shah@gmail.com**
 
