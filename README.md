@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my problem-solving skills and MERN STACK projects**
 
-- 🌱 I’m currently learning ** about Frontend - Backend connections .**
+- 🌱 I’m currently learning  about Frontend - Backend connections .
 
 - 📫 How to reach me **harshal888shah@gmail.com**
 
