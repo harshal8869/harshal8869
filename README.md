@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Shah!</h1>
 <h3 align="center">A coding enthusiast having some knowledge on competitive programming and web development.</h3>
-<img align = "right" alt = "Coding" widht = "400" src="https://tse2.mm.bing.net/th?id=OIP.5SFCDaNp6A0KtXGxzTCMCAHaE8&pid=Api&P=0">
+
 
 - 🔭 I’m currently working on **my problem-solving skills and MERN STACK projects**
 
